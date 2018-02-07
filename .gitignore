@@ -7,6 +7,8 @@ project.lock.json
 .NETCoreApp,Version=v2.0.AssemblyAttributes.cs
 NuGetScratch/
 
+.cache
+
 api/wwwroot/**
 !api/wwwroot/scratch.html
 !api/wwwroot/favicon.ico
@@ -32,3 +34,7 @@ ops/*.retry
 .idea/
 **/.vs/
 **/.vscode
+
+**/wwwroot/*.js
+**/wwwroot/*.css
+*.map
