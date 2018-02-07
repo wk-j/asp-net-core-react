@@ -18,3 +18,10 @@ This app is a template application using ASP.NET Core 2.0 for a REST/JSON API se
 2. Run `npm install and dotnet restore`
 3. Run `dotnet run`
 3. Open browser and navigate to [http://localhost:5000](http://localhost:5000).
+
+
+## Use Parcel
+
+```
+parcel ClientApp/boot.tsx -d wwwroot
+```
