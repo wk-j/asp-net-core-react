@@ -1,13 +1,13 @@
 .DS_Store
 
+.cache
+
 # dotnet core
 bin/
 obj/
 project.lock.json
 .NETCoreApp,Version=v2.0.AssemblyAttributes.cs
 NuGetScratch/
-
-.cache
 
 api/wwwroot/**
 !api/wwwroot/scratch.html
