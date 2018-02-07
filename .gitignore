@@ -33,7 +33,7 @@ ops/*.retry
 # IDE
 .idea/
 **/.vs/
-**/.vscode
+# **/.vscode
 
 **/wwwroot/*.js
 **/wwwroot/*.css
